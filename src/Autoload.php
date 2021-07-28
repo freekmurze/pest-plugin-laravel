@@ -3,6 +3,7 @@
 (static function () {
     $files = [
         'Authentication.php',
+        'Blade.php',
         'Console.php',
         'Container.php',
         'Database.php',
